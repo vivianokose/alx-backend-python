@@ -1,0 +1,1 @@
+# This repository contains a project focused on implementing and understanding unittests and integration tests in Python. It aims to provide a comprehensive guide on how to structure, write, and run tests to ensure code quality and reliability.
